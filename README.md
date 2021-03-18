@@ -9,7 +9,7 @@
 
 Mon paragraphe de texteMon paragraphe de texteMon paragraphe de texteMon paragraphe de texteMon paragraphe de texteMon paragraphe de texteMon paragraphe de texteMon paragraphe de texteMon paragraphe de texteMon paragraphe de texteMon paragraphe de texteMon paragraphe de texte
 
-Je suis sur la branche de Boris
+Je suis sur la branche de Boris et je rajoute du texte.
 
 
 ```java
